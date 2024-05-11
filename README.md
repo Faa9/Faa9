@@ -27,3 +27,4 @@ To start the system (GUI) and monitor the GPS drone from your personal laptop/PC
 2- Use the IPCHECKER.ino file to obtain the esp32 ip address.
 3- Update the tk5.py file with the new ip address.
 4- Run the tk5.py from the command window.
+5- when running the tk.py from the command window a jam.grc file will be running simultaneously to open the gnu radio jamming signal blocks.
